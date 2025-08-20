@@ -1,7 +1,7 @@
 # Awesome ChatGPT & Claude Agents ✨
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Stars](https://img.shields.io/github/stars/milisp/awesome-chatgpt-claude-agent?style=social)](https://github.com/milisp/awesome-chatgpt-claude-agent/stargazers)
+[![Stars](https://img.shields.io/github/stars/milisp/awesome-chatgpt-claude-agents?style=social)](https://github.com/milisp/awesome-chatgpt-claude-agents/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
