@@ -73,6 +73,8 @@
 - **[hesreallyhim/awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents)** - Curated list of specialized subagents with task-specific configurations
 - **[lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents)** - Specialized subagents for the entire software development lifecycle
 - **[vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** - 24 specialized agents working together to build production-ready features
+- **[toprank](https://github.com/nowork-studio/toprank)** - Open-source Claude Code plugin with 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and Google Ads API
+
 
 ### Full-Stack & DevOps
 
