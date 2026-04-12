@@ -94,6 +94,8 @@
 - **[Swarm](https://github.com/openai/swarm)** - Educational framework for lightweight multi-agent orchestration by OpenAI
 - **[Autogen](https://github.com/microsoft/autogen)** ⭐ 32k+ - Enable Next-Gen Large Language Model Applications
 
+- **[OpenPaw](https://github.com/daxaur/openpaw)** - Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud, MIT licensed.
+
 ### Development Platforms
 
 - **[Lobe Chat](https://github.com/lobehub/lobe-chat)** ⭐ 63k+ - Open-source UI framework for building ChatGPT/LLM-based chat applications
