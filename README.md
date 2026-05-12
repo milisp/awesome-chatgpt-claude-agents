@@ -95,6 +95,7 @@
 - **[Autogen](https://github.com/microsoft/autogen)** ⭐ 32k+ - Enable Next-Gen Large Language Model Applications
 
 - **[OpenPaw](https://github.com/daxaur/openpaw)** - Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud, MIT licensed.
+- **[agency-os](https://github.com/ratamaha-git/agency-os)** - Run your work like an AI agency from a single Notion board. Plan ideas into dependency-sequenced subtasks, dispatch each on the right model, and collect results back in Notion. Pluggable to Claude Code, Cursor, Cline, or any MCP-compatible agent.
 
 ### Development Platforms
 
