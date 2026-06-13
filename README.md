@@ -47,6 +47,7 @@
 - **[ChatGPT-Writer](https://github.com/gpt-writer/ChatGPT-Writer)** - Browser extension to write emails, messages, and more using ChatGPT
 - **[AI-Commit](https://github.com/guanguans/ai-commit)** - Automagically generate conventional commit messages with AI
 - **[Storyteller](https://github.com/jaketae/storyteller)** - Generate stories using GPT models
+- **[CreatorSkills](https://creatorskills.co)** - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ### Research & Analysis
 
