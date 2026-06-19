@@ -75,6 +75,7 @@
 - **[lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents)** - Specialized subagents for the entire software development lifecycle
 - **[vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** - 24 specialized agents working together to build production-ready features
 - **[toprank](https://github.com/nowork-studio/toprank)** - Open-source Claude Code plugin with 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and Google Ads API
+- **[NotFair](https://github.com/nowork-studio/NotFair)** ⭐ 2.9k+ - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects live marketing data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 
 
 ### Full-Stack & DevOps
