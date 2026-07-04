@@ -64,6 +64,7 @@
 ## 🔹 Claude Code Subagents
 
 ### Production-Ready Collections
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): 4 structured Markdown templates + 5 Claude Code skills (crm-everything, open-loops, watchers, morning-briefing, session-digest) that give any AI agent deep, longitudinal context about you. Open-source, model-agnostic, one-command install.
 
 - **[VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)** - Production-ready collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations
 - **[wshobson/agents](https://github.com/wshobson/agents)** - 75 specialized subagents that extend Claude Code's capabilities for specific domains
