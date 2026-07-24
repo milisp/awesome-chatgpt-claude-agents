@@ -111,6 +111,7 @@
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** ⭐ 44k+ - Multi-agent framework that turns one line requirement into PRD, design, tasks, and code
 - **[ChatDev](https://github.com/OpenBMB/ChatDev)** ⭐ 25k+ - Communicative agents for software development
 - **[CAMEL](https://github.com/camel-ai/camel)** ⭐ 5k+ - Communicative agents for "mind" exploration of large language model society
+- **[Hivekeep](https://github.com/MarlBurroW/hivekeep)** - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI; agents collaborate, build their own tools and mini-apps, and are reachable over Telegram, Slack, Discord and Matrix
 
 ## 📚 Educational Resources
 
