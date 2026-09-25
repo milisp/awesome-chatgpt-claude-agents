@@ -80,7 +80,7 @@
 
 ### Testing & Quality Assurance
 
-- **[Agent QA](https://github.com/vostride/agent-qa)** ⭐ 933 - Agent skills for authoring natural-language web, Android, and iOS regression tests, debugging failed runs, and triaging results from reviewable run evidence. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years.
+- **[Agent QA](https://github.com/vostride/agent-qa)** ⭐ 933 - Self-improving QA agent with skills for authoring natural-language web, Android, and iOS regression tests, debugging failed runs, and triaging reviewable run evidence.
 
 ### Full-Stack & DevOps
 
