@@ -95,6 +95,7 @@
 ## 🛠️ Frameworks & Platforms
 
 ### Multi-Agent Orchestration
+- **[Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** ⭐ 250 - Records the traffic between an agent and the model provider into a local trace, then replays it offline to reproduce a failed run without calling the provider again.
 
 - **[CrewAI](https://github.com/joaomdmoura/crewAI)** ⭐ 20k+ - Framework for orchestrating role-playing, autonomous AI agents
 - **[Swarm](https://github.com/openai/swarm)** - Educational framework for lightweight multi-agent orchestration by OpenAI
