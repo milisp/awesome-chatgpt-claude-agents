@@ -77,6 +77,7 @@
 - **[vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** - 24 specialized agents working together to build production-ready features
 - **[toprank](https://github.com/nowork-studio/toprank)** - Open-source Claude Code plugin with 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and Google Ads API
 - **[NotFair](https://github.com/nowork-studio/NotFair)** ⭐ 2.9k+ - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects live marketing data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
+- **[LogNorm](https://github.com/lognorm/lognorm-mcp)** - Hosted MCP server that hands a site's SEO/GEO growth backlog (audits, fixes, content drafts, AI-visibility tracking) to Claude Code, Codex and Cursor. Includes a skill and plugin manifest. [lognorm.com](https://lognorm.com)
 
 ### Testing & Quality Assurance
 
