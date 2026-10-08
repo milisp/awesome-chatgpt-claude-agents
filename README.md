@@ -105,6 +105,8 @@
 - **[AutomateLab-tech/publishing-skills](https://github.com/AutomateLab-tech/publishing-skills)** - Four composable, platform-agnostic skills that turn an AI agent into a long-tail SEO publishing pipeline: topic research, drafting, SVG figures, and an editorial calendar. Publishes to Ghost, WordPress, or any static-site generator. Install via clawhub or by cloning the repo.
 - **[YYLO](https://github.com/yylo-dev/yylo)** ⭐ 57 - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes, with typed task, validation, merge, and release-readiness boundaries. Each task runs in a dedicated branch/worktree, and the merge queue owns risk-based review. MIT, on npm as @yylo/cli; subagent namespaces include Pi and Codex.
 
+- **[Tale](https://github.com/tale-project/tale)** ⭐ 32 - Self-hosted workspace for people and persistent AI agents, with shared tasks, files, knowledge, and explicit delegation and review.
+
 ### Development Platforms
 
 - **[Lobe Chat](https://github.com/lobehub/lobe-chat)** ⭐ 63k+ - Open-source UI framework for building ChatGPT/LLM-based chat applications
